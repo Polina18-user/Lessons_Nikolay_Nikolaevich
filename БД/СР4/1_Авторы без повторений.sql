@@ -1,0 +1,1 @@
+SELECT distinct author FROM library.Book;

@@ -1,0 +1,1 @@
+SELECT DISTINCT author FROM `library`.`Book` ORDER BY author
