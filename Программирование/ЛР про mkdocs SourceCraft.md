@@ -1,6 +1,10 @@
 # Лабораторная работа 
 ## Часть 1. mkdocs
 
+https://github.com/Polina18-user/mkdocs-site.git
+
+
+
 Установка Python системно, создание окружения, создание репозитория на desktop GitHub, перенесение его в GitHub
 
 <img width="1897" height="953" alt="1" src="https://github.com/user-attachments/assets/39ef2409-f4ab-4cc2-a782-cc28298986a9" />
