@@ -90,6 +90,14 @@ watchdog==6.0.0
 <img width="1242" height="548" alt="image" src="https://github.com/user-attachments/assets/977c14d7-cd84-47b0-a5ed-defc24af3161" />
 
 
+
+### Вот итог
+
+
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/ca9e85be-392c-4037-81b6-ae18f0bbbc30" />
+
+
+
 ## Часть 2. Source Craft
 
 
